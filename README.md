@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=30&duration=2000&pause=1000&color=2AA889&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=100%&height=100&lines=Hi%2C+I'm+Shakir+Yasin;A+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=30&duration=2000&pause=1000&color=2AA889&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=894%&height=100&lines=Hi%2C+I'm+Shakir+Yasin;A+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ### Connect with me:
 
