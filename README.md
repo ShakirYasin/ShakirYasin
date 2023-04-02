@@ -14,10 +14,10 @@
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=WaleedAtiq&style=flat&color=brightgreen"> •   <a href="https://user-badge.committers.top/pakistan/WaleedAtiq"><img src="https://user-badge.committers.top/pakistan/WaleedAtiq.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/WaleedAtiq?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/WaleedAtiq?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/WaleedAtiq"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ShakirYasin&style=flat&color=brightgreen"> •   <a href="https://user-badge.committers.top/pakistan/ShakirYasin"><img src="https://user-badge.committers.top/pakistan/ShakirYasin.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ShakirYasin?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/ShakirYasin?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/ShakirYasin"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p> -->
 
 <!-- ### Languages and Tools:
@@ -41,7 +41,7 @@
 ### :zap: GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/WaleedAtiq">
+  <a href="https://github.com/ShakirYasin">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ShakirYasin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakirYasin&layout=compact&langs_count=7&theme=gotham"/> -->
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=ShakirYasin&theme=gotham&date_format=j%20M%5B%20Y%5D&background=0D1616&fire=FFAC2F&currStreakLabel=DDDDDD)"/>
