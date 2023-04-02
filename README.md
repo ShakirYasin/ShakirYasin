@@ -2,9 +2,6 @@
 
 ### Connect with me:
 
-<--[![website](./img/globe-light.svg)](https://waleed-portfolio.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://waleed-portfolio.vercel.app/#gh-dark-mode-only)
-&nbsp;&nbsp;-->
 [![website](./img/facebook-light.svg)](https://www.facebook.com/shakiryasin.me/#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/shakiryasin.me/#gh-dark-mode-only)
 &nbsp;&nbsp;
