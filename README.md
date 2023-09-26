@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/ShakirYasin">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ShakirYasin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ShakirYasin&show_icons=true&theme=gotham"/>
     <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakirYasin&layout=compact&langs_count=7&theme=gotham"/> -->
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=ShakirYasin&theme=gotham&date_format=j%20M%5B%20Y%5D&background=0D1616&fire=FFAC2F&currStreakLabel=DDDDDD)"/>
   </a>
