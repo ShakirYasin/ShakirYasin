@@ -88,7 +88,7 @@ I'm a Senior Full-Stack Engineer who builds **scalable, production-grade applica
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShakirYasin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShakirYasin&show_icons=true&theme=gotham"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakirYasin&layout=compact&langs_count=8&theme=gotham"/>
 </div>
 
